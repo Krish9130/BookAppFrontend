@@ -9,6 +9,7 @@ phases:
         # install npm
         - npm install
         - npm install react-scripts --save
+        - pwd
        
   build:
     commands:
